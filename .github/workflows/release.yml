@@ -14,8 +14,8 @@ permissions:
   contents: write
 
 env:
-  PROJ_USERNAME: cleric
-  PROJ_NAME: DeepBramble
+  PROJ_USERNAME: coderCleric
+  PROJ_NAME: GhostEverything
 
 jobs:
   pre_job:
